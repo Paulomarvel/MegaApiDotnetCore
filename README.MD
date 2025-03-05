@@ -1,6 +1,6 @@
 # Megaman API
 
-![Capacete do robô](./_docs/Astrobot avatar.png)
+![Capacete do robô](https://github.com/Paulomarvel/MegaApiDotnetCore/blob/master/_docs/Astrobot%20avatar.png)
 
 ## 📖 Visão Geral
 O projeto **Megaman API** é uma API desenvolvida em **.NET Core 3.1**, utilizando **Entity Framework Core** para manipulação de dados e outras bibliotecas auxiliares para o desenvolvimento da aplicação.
@@ -78,7 +78,7 @@ A API expõe os seguintes endpoints:
 | `POST` | `/api/v1/robots` |
 | **Retorno:** | Confirmação de sucesso |
 
-![Capacete aberto do robô](./docs/imagem capacete.webp)
+![Capacete aberto do robô](https://github.com/Paulomarvel/MegaApiDotnetCore/blob/master/_docs/imagem%20capacete.webp)
 
 ## 📝 Considerações Finais
 Este projeto segue as boas práticas de desenvolvimento em **.NET Core**, utilizando **arquitetura em camadas** e padrões modernos. Para mais informações sobre cada tecnologia utilizada, consulte os links das dependências na tabela acima.
