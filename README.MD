@@ -5,7 +5,7 @@
 ## 📖 Visão Geral
 O projeto **Megaman API** é uma API desenvolvida em **.NET Core 3.1**, utilizando **Entity Framework Core** para manipulação de dados e outras bibliotecas auxiliares para o desenvolvimento da aplicação.
 
-📖![Documento Normativo](https://github.com/Paulomarvel/MegaApiDotnetCore/blob/master/_docs/Megaman_API_Documentacao.pdf)
+📖[Documento Normativo](https://github.com/Paulomarvel/MegaApiDotnetCore/blob/master/_docs/Megaman_API_Documentacao.pdf)
 
 ## 🚀 Tecnologias Utilizadas
 | Tecnologia | Descrição |
